@@ -58,4 +58,4 @@ run through each idea of how to write skeleton tests of what you are looking for
 details.
 
 [ ] Step 1. Install RSPec , Cucumber , Capybara to your Rails application
-TLDR right now read their Github Rails Installation instructions. learn to read, look that shit up.
+TLDR right now read their Github Rails Installation instructions. <b>learn to read, look that shit up.</b>
